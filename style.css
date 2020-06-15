@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.template {
+  display: none;
+}
+
+.todo-item {
+  color: red;
+  background: yellow;
+  border-top: 1px solid red;
+  padding: 20px;
+}
+.todo-item .elimina {
+  color: black;
+  cursor: pointer;
+}
+
+.marg-top {
+  margin-top: 20px;
+}
